@@ -1,0 +1,21 @@
+body {
+        overflow: hidden;
+        background-image:url(images/nature11.jpg);
+        background-repeat:no-repeat;
+        background-position: 50% 50%; 
+}
+.header {
+        width:100%;
+        background-color:black;
+        font-family:Florence, cursive;
+        color:white;
+        text-align: center;
+}
+.header a{
+        font-weight:bold;
+        color:white;
+        font-size:20px;
+        text-decoration:none;
+        text-align: center;
+}
+
